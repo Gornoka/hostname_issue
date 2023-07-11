@@ -1,0 +1,430 @@
+hostname_check-hostname-check-6-1  | 2023-07-11 15:56:58,883 - WARNING - script started
+hostname_check-hostname-check-6-1  | 2023-07-11 15:56:58,883 - INFO - Waiting 0 seconds before starting
+hostname_check-hostname-check-6-1  | 2023-07-11 15:56:58,888 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:56:58,888 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:56:58,889 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:56:58,889 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:56:58,889 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:56:58,889 - WARNING - Checked 5 hostnames, 5 were successful, 0 failed
+hostname_check-hostname-check-6-1  | 2023-07-11 15:56:58,889 - INFO - Sleeping for 9.994006633758545 seconds
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:07,891 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:07,892 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:07,893 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:07,894 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:07,894 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:07,895 - WARNING - Checked 5 hostnames, 5 were successful, 0 failed
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:07,895 - INFO - Sleeping for 9.995490312576294 seconds
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:16,897 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:16,898 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:16,899 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:16,899 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:16,900 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:16,900 - WARNING - Checked 5 hostnames, 5 were successful, 0 failed
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:16,901 - INFO - Sleeping for 9.995757341384888 seconds
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:25,903 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:25,904 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:25,904 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:25,905 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:25,906 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:25,906 - WARNING - Checked 5 hostnames, 5 were successful, 0 failed
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:25,906 - INFO - Sleeping for 9.995935678482056 seconds
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:34,908 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:34,909 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:34,910 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:34,911 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:34,912 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:34,912 - WARNING - Checked 5 hostnames, 5 were successful, 0 failed
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:34,912 - INFO - Sleeping for 9.995291709899902 seconds
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:43,914 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:43,915 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:43,916 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:43,917 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:43,918 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:43,918 - WARNING - Checked 5 hostnames, 5 were successful, 0 failed
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:43,918 - INFO - Sleeping for 9.995361804962158 seconds
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:52,920 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:52,921 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:52,922 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:52,923 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:52,924 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:52,924 - WARNING - Checked 5 hostnames, 5 were successful, 0 failed
+hostname_check-hostname-check-6-1  | 2023-07-11 15:57:52,924 - INFO - Sleeping for 9.995528221130371 seconds
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:01,926 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:01,927 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:01,928 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:01,929 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:01,930 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:01,930 - WARNING - Checked 5 hostnames, 5 were successful, 0 failed
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:01,930 - INFO - Sleeping for 9.995477437973022 seconds
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:10,932 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:10,933 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:10,934 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:10,935 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:10,935 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:10,936 - WARNING - Checked 5 hostnames, 5 were successful, 0 failed
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:10,936 - INFO - Sleeping for 9.995612382888794 seconds
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:19,937 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:19,938 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:19,938 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:19,938 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:19,938 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:19,938 - WARNING - Checked 5 hostnames, 5 were successful, 0 failed
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:19,938 - INFO - Sleeping for 9.998592376708984 seconds
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:28,941 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:28,942 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:28,942 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:56:58,441 - WARNING - script started
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:28,943 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:28,944 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:56:58,344 - WARNING - script started
+hostname_check-hostname-check-3-1  | 2023-07-11 15:56:58,393 - WARNING - script started
+hostname_check-hostname-check-3-1  | 2023-07-11 15:56:58,393 - INFO - Waiting 0 seconds before starting
+hostname_check-hostname-check-3-1  | 2023-07-11 15:56:58,399 - INFO - hostname-check-3 was resolved to ['172.30.0.2', '172.30.0.2', '172.30.0.2']
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:28,944 - WARNING - Checked 5 hostnames, 5 were successful, 0 failed
+hostname_check-hostname-check-6-1  | 2023-07-11 15:58:28,944 - INFO - Sleeping for 9.995398044586182 seconds
+hostname_check-hostname-check-5-1  | 2023-07-11 15:56:58,344 - INFO - Waiting 0 seconds before starting
+hostname_check-hostname-check-5-1  | 2023-07-11 15:56:58,352 - INFO - hostname-check-1 was resolved to ['172.29.0.8', '172.29.0.8', '172.29.0.8']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:56:58,353 - INFO - hostname-check-2 was resolved to ['172.29.0.10', '172.29.0.10', '172.29.0.10']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:56:58,353 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:56:58,356 - WARNING - hostname-check-3 was not resolved
+hostname_check-hostname-check-5-1  | 2023-07-11 15:56:58,356 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:56:58,441 - INFO - Waiting 0 seconds before starting
+hostname_check-hostname-check-4-1  | 2023-07-11 15:56:58,446 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:56:58,356 - ERROR - Checked 5 hostnames, 4 were successful, 1 failed
+hostname_check-hostname-check-5-1  | 2023-07-11 15:56:58,356 - INFO - Sleeping for 9.988242149353027 seconds
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:07,358 - INFO - hostname-check-1 was resolved to ['172.29.0.8', '172.29.0.8', '172.29.0.8']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:07,359 - INFO - hostname-check-2 was resolved to ['172.29.0.10', '172.29.0.10', '172.29.0.10']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:07,360 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:07,362 - WARNING - hostname-check-3 was not resolved
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:07,362 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:07,362 - ERROR - Checked 5 hostnames, 4 were successful, 1 failed
+hostname_check-hostname-check-2-1  | 2023-07-11 15:56:58,890 - WARNING - script started
+hostname_check-hostname-check-1-1  | 2023-07-11 15:56:58,593 - WARNING - script started
+hostname_check-hostname-check-1-1  | 2023-07-11 15:56:58,593 - INFO - Waiting 0 seconds before starting
+hostname_check-hostname-check-1-1  | 2023-07-11 15:56:58,598 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:56:58,599 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:56:58,890 - INFO - Waiting 0 seconds before starting
+hostname_check-hostname-check-2-1  | 2023-07-11 15:56:58,895 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:56:58,895 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:56:58,896 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:56:58,896 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:56:58,896 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:56:58,896 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:56:58,896 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-2-1  | 2023-07-11 15:56:58,896 - INFO - Sleeping for 9.994057178497314 seconds
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:07,898 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:07,899 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:07,900 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:07,900 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:07,901 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:07,902 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:07,902 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-1-1  | 2023-07-11 15:56:58,599 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:56:58,599 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:56:58,599 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:56:58,599 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:56:58,599 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-1-1  | 2023-07-11 15:56:58,599 - INFO - Sleeping for 9.994025945663452 seconds
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:07,601 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:07,602 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:07,603 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:07,604 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:07,605 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:07,606 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:07,606 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:07,606 - INFO - Sleeping for 9.994795799255371 seconds
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:16,608 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:16,609 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:16,610 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:07,902 - INFO - Sleeping for 9.995187759399414 seconds
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:16,904 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:16,905 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:16,906 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:16,907 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:16,907 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:16,908 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:16,908 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:16,909 - INFO - Sleeping for 9.995057821273804 seconds
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:25,911 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:25,911 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:25,912 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:25,913 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:25,913 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:25,914 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:25,914 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:25,914 - INFO - Sleeping for 9.995431184768677 seconds
+hostname_check-hostname-check-3-1  | 2023-07-11 15:56:58,399 - WARNING - hostname-check-5 was not resolved
+hostname_check-hostname-check-3-1  | 2023-07-11 15:56:58,399 - ERROR - Checked 2 hostnames, 1 were successful, 1 failed
+hostname_check-hostname-check-3-1  | 2023-07-11 15:56:58,400 - INFO - Sleeping for 9.994108438491821 seconds
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:07,401 - INFO - hostname-check-3 was resolved to ['172.30.0.2', '172.30.0.2', '172.30.0.2']
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:07,402 - WARNING - hostname-check-5 was not resolved
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:07,402 - ERROR - Checked 2 hostnames, 1 were successful, 1 failed
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:07,403 - INFO - Sleeping for 9.998299598693848 seconds
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:16,405 - INFO - hostname-check-3 was resolved to ['172.30.0.2', '172.30.0.2', '172.30.0.2']
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:16,407 - WARNING - hostname-check-5 was not resolved
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:16,407 - ERROR - Checked 2 hostnames, 1 were successful, 1 failed
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:16,407 - INFO - Sleeping for 9.996315956115723 seconds
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:25,409 - INFO - hostname-check-3 was resolved to ['172.30.0.2', '172.30.0.2', '172.30.0.2']
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:25,412 - WARNING - hostname-check-5 was not resolved
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:25,412 - ERROR - Checked 2 hostnames, 1 were successful, 1 failed
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:25,412 - INFO - Sleeping for 9.996551752090454 seconds
+hostname_check-hostname-check-4-1  | 2023-07-11 15:56:58,447 - INFO - hostname-check-6 was resolved to ['172.31.0.3', '172.31.0.3', '172.31.0.3']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:34,916 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:34,917 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:34,918 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:34,919 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:34,920 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:07,362 - INFO - Sleeping for 9.995683193206787 seconds
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:34,414 - INFO - hostname-check-3 was resolved to ['172.30.0.2', '172.30.0.2', '172.30.0.2']
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:34,415 - WARNING - hostname-check-5 was not resolved
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:34,415 - ERROR - Checked 2 hostnames, 1 were successful, 1 failed
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:34,415 - INFO - Sleeping for 9.998801231384277 seconds
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:43,417 - INFO - hostname-check-3 was resolved to ['172.30.0.2', '172.30.0.2', '172.30.0.2']
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:43,419 - WARNING - hostname-check-5 was not resolved
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:16,364 - INFO - hostname-check-1 was resolved to ['172.29.0.8', '172.29.0.8', '172.29.0.8']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:16,365 - INFO - hostname-check-2 was resolved to ['172.29.0.10', '172.29.0.10', '172.29.0.10']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:16,366 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:16,368 - WARNING - hostname-check-3 was not resolved
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:16,369 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:16,369 - ERROR - Checked 5 hostnames, 4 were successful, 1 failed
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:16,369 - INFO - Sleeping for 9.994257926940918 seconds
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:25,371 - INFO - hostname-check-1 was resolved to ['172.29.0.8', '172.29.0.8', '172.29.0.8']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:25,372 - INFO - hostname-check-2 was resolved to ['172.29.0.10', '172.29.0.10', '172.29.0.10']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:25,373 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:25,375 - WARNING - hostname-check-3 was not resolved
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:34,920 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:34,921 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:34,921 - INFO - Sleeping for 9.994921922683716 seconds
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:43,923 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:43,924 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:43,925 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:43,925 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:43,926 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:43,927 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:43,927 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:43,927 - INFO - Sleeping for 9.995200634002686 seconds
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:52,929 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:52,930 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:52,931 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:52,932 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:52,932 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:52,933 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:52,933 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:43,419 - ERROR - Checked 2 hostnames, 1 were successful, 1 failed
+hostname_check-hostname-check-2-1  | 2023-07-11 15:57:52,934 - INFO - Sleeping for 9.99490737915039 seconds
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:43,420 - INFO - Sleeping for 9.996403694152832 seconds
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:01,935 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:01,936 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:01,937 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:01,938 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:01,939 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:01,939 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:01,940 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:01,940 - INFO - Sleeping for 9.995131492614746 seconds
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:10,942 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:10,943 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:10,943 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:10,944 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:10,945 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:10,946 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:10,946 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:10,946 - INFO - Sleeping for 9.995069026947021 seconds
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:19,955 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:56:58,447 - WARNING - Checked 2 hostnames, 2 were successful, 0 failed
+hostname_check-hostname-check-4-1  | 2023-07-11 15:56:58,447 - INFO - Sleeping for 9.994473457336426 seconds
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:07,449 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:07,450 - INFO - hostname-check-6 was resolved to ['172.31.0.3', '172.31.0.3', '172.31.0.3']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:07,450 - WARNING - Checked 2 hostnames, 2 were successful, 0 failed
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:07,450 - INFO - Sleeping for 9.99783706665039 seconds
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:16,453 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:52,422 - INFO - hostname-check-3 was resolved to ['172.30.0.2', '172.30.0.2', '172.30.0.2']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:16,453 - INFO - hostname-check-6 was resolved to ['172.31.0.3', '172.31.0.3', '172.31.0.3']
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:52,424 - WARNING - hostname-check-5 was not resolved
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:52,424 - ERROR - Checked 2 hostnames, 1 were successful, 1 failed
+hostname_check-hostname-check-3-1  | 2023-07-11 15:57:52,424 - INFO - Sleeping for 9.996649980545044 seconds
+hostname_check-hostname-check-3-1  | 2023-07-11 15:58:01,426 - INFO - hostname-check-3 was resolved to ['172.30.0.2', '172.30.0.2', '172.30.0.2']
+hostname_check-hostname-check-3-1  | 2023-07-11 15:58:01,427 - WARNING - hostname-check-5 was not resolved
+hostname_check-hostname-check-3-1  | 2023-07-11 15:58:01,427 - ERROR - Checked 2 hostnames, 1 were successful, 1 failed
+hostname_check-hostname-check-3-1  | 2023-07-11 15:58:01,427 - INFO - Sleeping for 9.998888969421387 seconds
+hostname_check-hostname-check-3-1  | 2023-07-11 15:58:10,429 - INFO - hostname-check-3 was resolved to ['172.30.0.2', '172.30.0.2', '172.30.0.2']
+hostname_check-hostname-check-3-1  | 2023-07-11 15:58:10,430 - WARNING - hostname-check-5 was not resolved
+hostname_check-hostname-check-3-1  | 2023-07-11 15:58:10,430 - ERROR - Checked 2 hostnames, 1 were successful, 1 failed
+hostname_check-hostname-check-3-1  | 2023-07-11 15:58:10,430 - INFO - Sleeping for 9.99807095527649 seconds
+hostname_check-hostname-check-3-1  | 2023-07-11 15:58:19,431 - INFO - hostname-check-3 was resolved to ['172.30.0.2', '172.30.0.2', '172.30.0.2']
+hostname_check-hostname-check-3-1  | 2023-07-11 15:58:19,432 - WARNING - hostname-check-5 was not resolved
+hostname_check-hostname-check-3-1  | 2023-07-11 15:58:19,433 - ERROR - Checked 2 hostnames, 1 were successful, 1 failed
+hostname_check-hostname-check-3-1  | 2023-07-11 15:58:19,433 - INFO - Sleeping for 9.99831247329712 seconds
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:16,454 - WARNING - Checked 2 hostnames, 2 were successful, 0 failed
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:16,454 - INFO - Sleeping for 9.997985363006592 seconds
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:25,456 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:25,457 - INFO - hostname-check-6 was resolved to ['172.31.0.3', '172.31.0.3', '172.31.0.3']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:25,457 - WARNING - Checked 2 hostnames, 2 were successful, 0 failed
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:25,457 - INFO - Sleeping for 9.998014688491821 seconds
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:34,459 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:34,460 - INFO - hostname-check-6 was resolved to ['172.31.0.3', '172.31.0.3', '172.31.0.3']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:34,460 - WARNING - Checked 2 hostnames, 2 were successful, 0 failed
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:34,460 - INFO - Sleeping for 9.99798059463501 seconds
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:43,462 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:43,463 - INFO - hostname-check-6 was resolved to ['172.31.0.3', '172.31.0.3', '172.31.0.3']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:43,464 - WARNING - Checked 2 hostnames, 2 were successful, 0 failed
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:43,464 - INFO - Sleeping for 9.99792194366455 seconds
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:52,466 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:52,467 - INFO - hostname-check-6 was resolved to ['172.31.0.3', '172.31.0.3', '172.31.0.3']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:52,467 - WARNING - Checked 2 hostnames, 2 were successful, 0 failed
+hostname_check-hostname-check-4-1  | 2023-07-11 15:57:52,467 - INFO - Sleeping for 9.99803352355957 seconds
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:16,610 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:16,611 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:16,612 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:16,612 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:16,612 - INFO - Sleeping for 9.995065927505493 seconds
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:25,614 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:25,615 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:25,616 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:25,617 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:25,617 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:25,618 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:25,618 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:25,619 - INFO - Sleeping for 9.994792938232422 seconds
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:34,621 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:34,622 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:19,956 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:19,956 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:19,957 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:19,957 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:19,958 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:19,958 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:19,958 - INFO - Sleeping for 9.997140169143677 seconds
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:28,960 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:28,961 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:28,961 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:28,962 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:28,963 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:28,964 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:28,964 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-2-1  | 2023-07-11 15:58:28,964 - INFO - Sleeping for 9.994957208633423 seconds
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:25,376 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:25,376 - ERROR - Checked 5 hostnames, 4 were successful, 1 failed
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:25,376 - INFO - Sleeping for 9.994107484817505 seconds
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:34,378 - INFO - hostname-check-1 was resolved to ['172.29.0.8', '172.29.0.8', '172.29.0.8']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:34,379 - INFO - hostname-check-2 was resolved to ['172.29.0.10', '172.29.0.10', '172.29.0.10']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:34,380 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:34,383 - WARNING - hostname-check-3 was not resolved
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:34,383 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:34,384 - ERROR - Checked 5 hostnames, 4 were successful, 1 failed
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:34,384 - INFO - Sleeping for 9.993642091751099 seconds
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:43,386 - INFO - hostname-check-1 was resolved to ['172.29.0.8', '172.29.0.8', '172.29.0.8']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:43,387 - INFO - hostname-check-2 was resolved to ['172.29.0.10', '172.29.0.10', '172.29.0.10']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:43,388 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:43,390 - WARNING - hostname-check-3 was not resolved
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:43,391 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:34,623 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:34,623 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:34,624 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:34,625 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:34,625 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:34,625 - INFO - Sleeping for 9.994685411453247 seconds
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:43,628 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:43,628 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:43,629 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:43,630 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:43,631 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:43,632 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:43,632 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:43,632 - INFO - Sleeping for 9.994572877883911 seconds
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:52,634 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:52,635 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:52,636 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:52,637 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:52,638 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:52,639 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:52,639 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-1-1  | 2023-07-11 15:57:52,639 - INFO - Sleeping for 9.994690656661987 seconds
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:01,641 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:01,642 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:01,643 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:01,644 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:01,644 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:01,645 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:01,645 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:01,645 - INFO - Sleeping for 9.995066165924072 seconds
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:10,647 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:10,647 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:10,648 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:10,648 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:58:01,469 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:58:01,470 - INFO - hostname-check-6 was resolved to ['172.31.0.3', '172.31.0.3', '172.31.0.3']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:58:01,470 - WARNING - Checked 2 hostnames, 2 were successful, 0 failed
+hostname_check-hostname-check-4-1  | 2023-07-11 15:58:01,470 - INFO - Sleeping for 9.998090505599976 seconds
+hostname_check-hostname-check-4-1  | 2023-07-11 15:58:10,473 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:58:10,473 - INFO - hostname-check-6 was resolved to ['172.31.0.3', '172.31.0.3', '172.31.0.3']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:58:10,474 - WARNING - Checked 2 hostnames, 2 were successful, 0 failed
+hostname_check-hostname-check-4-1  | 2023-07-11 15:58:10,474 - INFO - Sleeping for 9.998024702072144 seconds
+hostname_check-hostname-check-4-1  | 2023-07-11 15:58:19,476 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:58:19,476 - INFO - hostname-check-6 was resolved to ['172.31.0.3', '172.31.0.3', '172.31.0.3']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:58:19,476 - WARNING - Checked 2 hostnames, 2 were successful, 0 failed
+hostname_check-hostname-check-4-1  | 2023-07-11 15:58:19,476 - INFO - Sleeping for 9.999266624450684 seconds
+hostname_check-hostname-check-4-1  | 2023-07-11 15:58:28,478 - INFO - hostname-check-4 was resolved to ['172.31.0.2', '172.31.0.2', '172.31.0.2']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:58:28,479 - INFO - hostname-check-6 was resolved to ['172.31.0.3', '172.31.0.3', '172.31.0.3']
+hostname_check-hostname-check-4-1  | 2023-07-11 15:58:28,479 - WARNING - Checked 2 hostnames, 2 were successful, 0 failed
+hostname_check-hostname-check-4-1  | 2023-07-11 15:58:28,479 - INFO - Sleeping for 9.99799919128418 seconds
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:43,392 - ERROR - Checked 5 hostnames, 4 were successful, 1 failed
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:10,648 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-3-1  | 2023-07-11 15:58:28,435 - INFO - hostname-check-3 was resolved to ['172.30.0.2', '172.30.0.2', '172.30.0.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:10,648 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:10,648 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:10,648 - INFO - Sleeping for 9.99811339378357 seconds
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:19,651 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:19,652 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:19,654 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:19,657 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:19,658 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:19,659 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:19,660 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:19,660 - INFO - Sleeping for 9.989863395690918 seconds
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:28,662 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:28,663 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:28,664 - INFO - hostname-check-6 was resolved to ['192.168.16.7', '192.168.16.7', '192.168.16.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:28,665 - INFO - hostname-check-1 was resolved to ['192.168.16.2', '192.168.16.2', '192.168.16.2']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:28,666 - INFO - hostname-check-2 was resolved to ['192.168.16.4', '192.168.16.4', '192.168.16.4']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:28,666 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:28,666 - WARNING - Checked 6 hostnames, 6 were successful, 0 failed
+hostname_check-hostname-check-1-1  | 2023-07-11 15:58:28,667 - INFO - Sleeping for 9.994679689407349 seconds
+hostname_check-hostname-check-3-1  | 2023-07-11 15:58:28,437 - WARNING - hostname-check-5 was not resolved
+hostname_check-hostname-check-3-1  | 2023-07-11 15:58:28,437 - ERROR - Checked 2 hostnames, 1 were successful, 1 failed
+hostname_check-hostname-check-3-1  | 2023-07-11 15:58:28,437 - INFO - Sleeping for 9.996641159057617 seconds
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:43,392 - INFO - Sleeping for 9.9937903881073 seconds
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:52,394 - INFO - hostname-check-1 was resolved to ['172.29.0.8', '172.29.0.8', '172.29.0.8']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:52,395 - INFO - hostname-check-2 was resolved to ['172.29.0.10', '172.29.0.10', '172.29.0.10']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:52,395 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:52,398 - WARNING - hostname-check-3 was not resolved
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:52,398 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:52,399 - ERROR - Checked 5 hostnames, 4 were successful, 1 failed
+hostname_check-hostname-check-5-1  | 2023-07-11 15:57:52,399 - INFO - Sleeping for 9.994123458862305 seconds
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:01,400 - INFO - hostname-check-1 was resolved to ['172.29.0.8', '172.29.0.8', '172.29.0.8']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:01,401 - INFO - hostname-check-2 was resolved to ['172.29.0.10', '172.29.0.10', '172.29.0.10']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:01,401 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:01,401 - WARNING - hostname-check-3 was not resolved
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:01,401 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:01,402 - ERROR - Checked 5 hostnames, 4 were successful, 1 failed
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:01,402 - INFO - Sleeping for 9.99856162071228 seconds
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:10,404 - INFO - hostname-check-1 was resolved to ['172.29.0.8', '172.29.0.8', '172.29.0.8']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:10,405 - INFO - hostname-check-2 was resolved to ['172.29.0.10', '172.29.0.10', '172.29.0.10']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:10,406 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:10,408 - WARNING - hostname-check-3 was not resolved
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:10,409 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:10,409 - ERROR - Checked 5 hostnames, 4 were successful, 1 failed
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:10,409 - INFO - Sleeping for 9.993813276290894 seconds
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:19,411 - INFO - hostname-check-1 was resolved to ['172.29.0.8', '172.29.0.8', '172.29.0.8']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:19,413 - INFO - hostname-check-2 was resolved to ['172.29.0.10', '172.29.0.10', '172.29.0.10']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:19,415 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:19,416 - WARNING - hostname-check-3 was not resolved
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:19,417 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:19,417 - ERROR - Checked 5 hostnames, 4 were successful, 1 failed
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:19,417 - INFO - Sleeping for 9.99399471282959 seconds
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:28,419 - INFO - hostname-check-1 was resolved to ['172.29.0.8', '172.29.0.8', '172.29.0.8']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:28,420 - INFO - hostname-check-2 was resolved to ['172.29.0.10', '172.29.0.10', '172.29.0.10']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:28,420 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:28,423 - WARNING - hostname-check-3 was not resolved
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:28,424 - INFO - hostname-check-5 was resolved to ['172.29.0.7', '172.29.0.7', '172.29.0.7']
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:28,424 - ERROR - Checked 5 hostnames, 4 were successful, 1 failed
+hostname_check-hostname-check-5-1  | 2023-07-11 15:58:28,424 - INFO - Sleeping for 9.994061470031738 seconds

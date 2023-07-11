@@ -1,0 +1,4 @@
+FROM python:3.11-slim-buster
+WORKDIR /app
+COPY ./src/check_hostnames.py /app
+CMD ["python", "./check_hostnames.py"]

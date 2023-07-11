@@ -1,0 +1,58 @@
+x-hostname-common: &hostname-common
+  build:
+    context: .
+    dockerfile: ./docker/DOCKERFILE
+  image: hostname-check:latest
+  volumes:
+    - ./hostname_files:/app/hostname_files:ro
+  environment:
+    - "HOSTNAME_FILE=${HOSTNAME_FILE:-/app/hostname_files/hostnames_simple.txt}"
+    - "INITIAL_WAIT_TIME=${INITIAL_WAIT_TIME:-1}"
+    - "LOOP_WAIT_TIME=${LOOP_WAIT_TIME:-10}"
+    - "LOG_LEVEL=${LOG_LEVEL:-WARNING}"
+    - "RESTART_CHANCE=${RESTART_CHANCE:-0.1}"
+  restart: unless-stopped
+  networks:
+    - network1
+    - network2
+    - network3
+    - network4
+services:
+  hostname-check-1:
+    <<: *hostname-common
+  hostname-check-2:
+    <<: *hostname-common
+  hostname-check-3:
+    <<: *hostname-common
+  hostname-check-4:
+    <<: *hostname-common
+  hostname-check-5:
+    <<: *hostname-common
+  hostname-check-6:
+    <<: *hostname-common
+  hostname-check-7:
+    <<: *hostname-common
+  hostname-check-8:
+    <<: *hostname-common
+  hostname-check-9:
+    <<: *hostname-common
+  hostname-check-10:
+    <<: *hostname-common
+  hostname-check-11:
+    <<: *hostname-common
+  hostname-check-12:
+    <<: *hostname-common
+  hostname-check-13:
+    <<: *hostname-common
+  hostname-check-14:
+    <<: *hostname-common
+  hostname-check-15:
+    <<: *hostname-common
+  hostname-check-16:
+    <<: *hostname-common
+
+networks:
+  network1:
+  network2:
+  network3:
+  network4:

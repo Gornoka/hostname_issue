@@ -1,0 +1,55 @@
+x-hostname-common: &hostname-common
+  build:
+    context: .
+    dockerfile: ./docker/DOCKERFILE
+  image: hostname-check:latest
+  volumes:
+    - ./hostname_files:/app/hostname_files:ro
+  restart: unless-stopped
+services:
+  hostname-check-1:
+    <<: *hostname-common
+    environment:
+      - "HOSTNAME_FILES=/app/hostname_files/hostnames_network_1.txt|/app/hostname_files/hostnames_network_2.txt"
+    networks:
+        - network1
+        - network2
+  hostname-check-2:
+    <<: *hostname-common
+    environment:
+      - "HOSTNAME_FILES=/app/hostname_files/hostnames_network_2.txt|/app/hostname_files/hostnames_network_2.txt"
+    networks:
+      - network1
+      - network2
+  hostname-check-3:
+    <<: *hostname-common
+    environment:
+      - "HOSTNAME_FILES=/app/hostname_files/hostnames_network_3.txt"
+    networks:
+      - network3
+  hostname-check-4:
+    <<: *hostname-common
+    environment:
+      - "HOSTNAME_FILES=/app/hostname_files/hostnames_network_4.txt"
+    networks:
+      - network4
+  hostname-check-5:
+    <<: *hostname-common
+    environment:
+      - "HOSTNAME_FILES=/app/hostname_files/hostnames_network_2.txt|/app/hostname_files/hostnames_network_3.txt"
+    networks:
+      - network3
+      - network2
+  hostname-check-6:
+    <<: *hostname-common
+    environment:
+      - "HOSTNAME_FILES=/app/hostname_files/hostnames_network_1.txt|/app/hostname_files/hostnames_network_4.txt"
+    networks:
+      - network1
+      - network4
+
+networks:
+  network1:
+  network2:
+  network3:
+  network4:
