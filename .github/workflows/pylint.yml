@@ -1,0 +1,57 @@
+name: Pylint
+
+on:
+  push:
+    branches: [ "*code*" ]
+  pull_request:
+    branches: [ master, staging, "epic/*/*", "!dependabot/*" ]
+  merge_group:
+
+jobs:
+  # example pylint job
+  lint_docker_listener:
+    if: false # remove me for use
+    runs-on: ubuntu-latest
+    env:
+      NORMAL_QUALITY_LEVEL: 9.5
+      LINE_LENGTH: 120
+      PYTHONPATH: "."
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.11"
+      # use this in case of private submodules
+      - name: ssh-keys
+        if: false # remove me for use
+        uses: webfactory/ssh-agent@v0.8.0
+        with:
+          ssh-private-key: ""
+
+      - name: initialize repository
+        if: false # remove me for use
+        shell: bash
+        run: |
+          python3 -m pip install --upgrade pip
+          git submodule update --init --recursive ./
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pylint
+          # this is necessary to ensure that the correct version of inspect utils is installed.
+          cd ./
+          pip install -r requirements.txt
+
+      - name: create annotations
+        # only run on pr to avoid double annotations on staging
+        if: ${{(github.event_name == 'pull_request')}}
+        run: |
+          echo "::add-matcher::.github/matchers/pylint-warning.json"
+          echo "::add-matcher::.github/matchers/pylint-error.json"
+
+      - name: lint code
+        if: always()
+        run: |
+          pylint --max-line-length=$LINE_LENGTH --fail-under=$NORMAL_QUALITY_LEVEL ./src* --output-format=colorized

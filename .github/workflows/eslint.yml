@@ -1,0 +1,24 @@
+name: ESLint
+
+on:
+  push:
+    branches: [staging, "*code*", "*github_action*", "!dependabot/*"]
+  pull_request:
+    branches: [master, staging, "epic/*/*", "!dependabot/*"]
+
+jobs:
+  lint_code_frontend:
+    runs-on: ubuntu-latest
+    if: false # remove me for use
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Node 16
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16
+      - name: Install modules
+        working-directory: ./frontend
+        run: npm ci
+      - name: Run ESLint
+        working-directory: ./frontend
+        run: npm run lint .

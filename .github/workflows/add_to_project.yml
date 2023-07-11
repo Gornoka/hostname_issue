@@ -1,0 +1,20 @@
+name: Adds all issues and prs to project INSPECT
+
+on:
+  issues:
+    types:
+      - opened
+  pull_request:
+    types:
+      - opened
+
+jobs:
+  add-to-project:
+    name: Add issue to project
+    runs-on: ubuntu-latest
+    if: ${{ (github.actor != 'dependabot[bot]')}}
+    steps:
+      - uses: actions/add-to-project@v0.4.0
+        with:
+          project-url: https://github.com/orgs/ANTICIPATE-GmbH/projects/5
+          github-token: ${{ secrets.ADD_TO_PROJECT }}
